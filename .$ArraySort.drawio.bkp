@@ -1,0 +1,22 @@
+<mxfile host="Electron" modified="2023-04-30T21:48:29.492Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.1 Chrome/112.0.5615.87 Electron/24.1.2 Safari/537.36" etag="IQKJ5YA9dQ4sFCKuqZ6V" version="21.2.1" type="device">
+  <diagram name="Страница 1" id="3223wAnbjGRSDxe4EAj0">
+    <mxGraphModel dx="1619" dy="1188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VHcYk5bP7TdbFjyxsms5-2" value="&amp;nbsp;Написать программу, которая из имеющегося массива строк формирует новый массив из строк, длина которых меньше, либо равна 3 символам. Первоначальный массив можно ввести с клавиатуры, либо задать на старте выполнения алгоритма. При решении не рекомендуется пользоваться коллекциями, лучше обойтись исключительно массивами." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-400" width="530" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VHcYk5bP7TdbFjyxsms5-3" value="string tmpArray = new array [string]&lt;br&gt;int j=0;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-240" y="190" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VHcYk5bP7TdbFjyxsms5-5" value="for (int i = 0; i &amp;lt; array.Length; i++)" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-270" y="280" width="300" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VHcYk5bP7TdbFjyxsms5-6" value="if (" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-240" y="400" width="240" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
